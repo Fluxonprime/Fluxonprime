@@ -4,8 +4,10 @@
     - Autonomous and Software Engineer @Team Anveshak, developing Autonomous mars rovers.
     - Core Team Member @CyberSecurity Interest Group, IIT, Madras
     - Team Member @Sherlock_H0LM35
+    - Upcoming Data Scientist, Winzo Games
 - 📫 How to reach me
   - E-mail: r.sakthivignesh1608@gmail.com
+  - Linkedin : https://www.linkedin.com/in/sakthi-vignesh-ramesh-subramaniam/
 
 <!---
 Fluxonprime/Fluxonprime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
