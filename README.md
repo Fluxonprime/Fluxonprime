@@ -16,6 +16,8 @@
   - E-mail: r.sakthivignesh1608@gmail.com
   - Linkedin : https://www.linkedin.com/in/sakthi-vignesh-ramesh-subramaniam/
   - resume : https://drive.google.com/file/d/1tB_llMC69Fd3GBCI6tzjIpFN-LBkTXZ0/view?usp=sharing
+ 
+- I added the emojis lol, turns out some llm generated ideas have nice aesthetics to it
 <!---
 Fluxonprime/Fluxonprime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
